@@ -1,1 +1,1 @@
-A simple LLM chatbot that reads internal files from a ealstic search databases.
+A simple LLM chatbot that reads internal files from a elastic search databases.
